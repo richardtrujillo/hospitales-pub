@@ -1,0 +1,1 @@
+Comienzo del sistema de gestion hospitalaria, especificamente el modulo de central de citas
